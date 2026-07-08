@@ -149,6 +149,7 @@ export type { OrderMetricKey, OrderMetrics, OrdersSummary, DataFormat } from './
  */
 export {
 	GeoChart,
+	GlobalChartsProvider,
 	HeatmapChart,
 	buildCalendarHeatmapData,
 	type DataPointDate,
